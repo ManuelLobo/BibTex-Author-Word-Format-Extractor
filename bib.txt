@@ -1,0 +1,245 @@
+@article{hu2016annotating,
+  title={Annotating the Function of the Human Genome with Gene Ontology and Disease Ontology},
+  author={Hu, Yang and Zhou, Wenyang and Ren, Jun and Dong, Lixiang and Wang, Yadong and Jin, Shuilin and Cheng, Liang},
+  journal={BioMed Research International},
+  volume={2016},
+  year={2016},
+  publisher={Hindawi Publishing Corporation}
+}
+@article{dai2015text,
+  title={Text mining for translational bioinformatics},
+  author={Dai, Hong-Jie and Wei, Chih-Hsuan and Kao, Hung-Yu and Liu, Rey-Long and Tsai, Richard Tzong-Han and Lu, Zhiyong},
+  journal={BioMed research international},
+  volume={2015},
+  year={2015},
+  publisher={Hindawi Publishing Corporation}
+}
+@article{cortes1995support,
+  title={Support-vector networks},
+  author={Cortes, Corinna and Vapnik, Vladimir},
+  journal={Machine learning},
+  volume={20},
+  number={3},
+  pages={273--297},
+  year={1995},
+  publisher={Springer}
+}
+@article{taboada2014automated,
+  title={Automated semantic annotation of rare disease cases: a case study},
+  author={Taboada, Maria and Rodr{\'\i}guez, Hadriana and Mart{\'\i}nez, Diego and Pardo, Mar{\'\i}a and Sobrido, Mar{\'\i}a Jes{\'u}s},
+  journal={Database},
+  volume={2014},
+  pages={bau045},
+  year={2014},
+  publisher={Oxford University Press}
+}
+@inproceedings{jonquet2009open,
+  title={The open biomedical annotator},
+  author={Jonquet, Clement and Shah, Nigam and Musen, Mark},
+  booktitle={AMIA summit on translational bioinformatics},
+  pages={56--60},
+  year={2009}
+}
+@article{kohler2009clinical,
+  title={Clinical diagnostics in human genetics with semantic similarity searches in ontologies},
+  author={K{\"o}hler, Sebastian and Schulz, Marcel H and Krawitz, Peter and Bauer, Sebastian and D{\"o}lken, Sandra and Ott, Claus E and Mundlos, Christine and Horn, Denise and Mundlos, Stefan and Robinson, Peter N},
+  journal={The American Journal of Human Genetics},
+  volume={85},
+  number={4},
+  pages={457--464},
+  year={2009},
+  publisher={Elsevier}
+}
+@article{kohler2016human,
+  title={The Human Phenotype Ontology in 2017},
+  author={K{\"o}hler, Sebastian and Vasilevsky, Nicole A and Engelstad, Mark and Foster, Erin and McMurry, Julie and Aym{\'e}, S{\'e}gol{\`e}ne and Baynam, Gareth and Bello, Susan M and Boerkoel, Cornelius F and Boycott, Kym M and others},
+  journal={Nucleic Acids Research},
+  pages={gkw1039},
+  year={2016},
+  publisher={Oxford Univ Press}
+}
+@article{groza2015automatic,
+  title={Automatic concept recognition using the Human Phenotype Ontology reference and test suite corpora},
+  author={Groza, Tudor and K{\"o}hler, Sebastian and Doelken, Sandra and Collier, Nigel and Oellrich, Anika and Smedley, Damian and Couto, Francisco M and Baynam, Gareth and Zankl, Andreas and Robinson, Peter N},
+  journal={Database},
+  volume={2015},
+  pages={bav005},
+  year={2015},
+  publisher={Oxford University Press}
+}
+@article{lamurias2015improving,
+  title={Improving chemical entity recognition through h-index based semantic similarity},
+  author={Lamurias, Andre and Ferreira, Joao D and Couto, Francisco M},
+  journal={Journal of cheminformatics},
+  volume={7},
+  number={1},
+  pages={S13},
+  year={2015},
+  publisher={Springer International Publishing}
+}
+@inproceedings{manning2014stanford,
+  title={The stanford corenlp natural language processing toolkit.},
+  author={Manning, Christopher D and Surdeanu, Mihai and Bauer, John and Finkel, Jenny Rose and Bethard, Steven and McClosky, David},
+  booktitle={ACL (System Demonstrations)},
+  pages={55--60},
+  year={2014}
+}
+@book{manning2008introduction,
+  title={Introduction to information retrieval},
+  author={Manning, Christopher D and Raghavan, Prabhakar and Sch{\"u}tze, Hinrich and others},
+  volume={1},
+  number={1},
+  year={2008},
+  publisher={Cambridge university press Cambridge}
+}
+@inproceedings{finkel2005incorporating,
+  title={Incorporating non-local information into information extraction systems by gibbs sampling},
+  author={Finkel, Jenny Rose and Grenager, Trond and Manning, Christopher},
+  booktitle={Proceedings of the 43rd annual meeting on association for computational linguistics},
+  pages={363--370},
+  year={2005},
+  organization={Association for Computational Linguistics}
+}
+@article{okazaki2007crfsuite,
+  title={CRFsuite: a fast implementation of conditional random fields (CRFs)},
+  author={Okazaki, Naoaki},
+  year={2007}
+}
+@article{brown1992class,
+  title={Class-based n-gram models of natural language},
+  author={Brown, Peter F and Desouza, Peter V and Mercer, Robert L and Pietra, Vincent J Della and Lai, Jenifer C},
+  journal={Computational linguistics},
+  volume={18},
+  number={4},
+  pages={467--479},
+  year={1992},
+  publisher={MIT Press}
+}
+@inproceedings{saetre2007akane,
+  title={AKANE system: protein-protein interaction pairs in BioCreAtIvE2 challenge, PPI-IPS subtask},
+  author={S{\ae}tre, Rune and Yoshida, Kazuhiro and Yakushiji, Akane and Miyao, Yusuke and Matsubayashi, Yuichiro and Ohta, Tomoko},
+  booktitle={Proceedings of the Second BioCreative Challenge Workshop},
+  pages={209--212},
+  year={2007},
+  organization={Madrid}
+}
+@article{mitchell1997machine,
+  title={Machine learning. 1997},
+  author={Mitchell, Tom M},
+  journal={Burr Ridge, IL: McGraw Hill},
+  volume={45},
+  number={37},
+  pages={870--877},
+  year={1997}
+}
+@book{campos2012biomedical,
+  title={Biomedical named entity recognition: a survey of machine-learning tools},
+  author={Campos, David and Oliveira, Jos{\'e} Lu{\'\i}s and Matos, S{\'e}rgio},
+  year={2012},
+  publisher={INTECH Open Access Publisher}
+}
+@article{rahmandisease,
+  title={Disease Named Entity Recognition Using Conditional Random Fields},
+  author={Rahman, Hidayat Ur and Chowk, Near Garden Town Kalma and Hahn, Thomas and Segall, Richard}
+}
+@inproceedings{lafferty2001conditional,
+  title={Conditional random fields: Probabilistic models for segmenting and labeling sequence data},
+  author={Lafferty, John and McCallum, Andrew and Pereira, Fernando and others},
+  booktitle={Proceedings of the eighteenth international conference on machine learning, ICML},
+  volume={1},
+  pages={282--289},
+  year={2001}
+}
+@inproceedings{mccallum2003early,
+  title={Early results for named entity recognition with conditional random fields, feature induction and web-enhanced lexicons},
+  author={McCallum, Andrew and Li, Wei},
+  booktitle={Proceedings of the seventh conference on Natural language learning at HLT-NAACL 2003-Volume 4},
+  pages={188--191},
+  year={2003},
+  organization={Association for Computational Linguistics}
+}
+@inproceedings{lee2003two,
+  title={Two-phase biomedical NE recognition based on SVMs},
+  author={Lee, Ki-Joong and Hwang, Young-Sook and Rim, Hae-Chang},
+  booktitle={Proceedings of the ACL 2003 workshop on Natural language processing in biomedicine-Volume 13},
+  pages={33--40},
+  year={2003},
+  organization={Association for Computational Linguistics}
+}
+@inproceedings{lin2004maximum,
+  title={A maximum entropy approach to biomedical named entity recognition},
+  author={Lin, Yi-Feng and Tsai, Tzong-Han and Chou, Wen-Chi and Wu, Kuen-Pin and Sung, Ting-Yi and Hsu, Wen-Lian},
+  booktitle={Proceedings of the 4th International Conference on Data Mining in Bioinformatics},
+  pages={56--61},
+  year={2004},
+  organization={Springer-Verlag}
+}
+@inproceedings{tkachenko2012named,
+  title={Named entity recognition: Exploring features.},
+  author={Tkachenko, Maksim and Simanovsky, Andrey},
+  booktitle={KONVENS},
+  pages={118--127},
+  year={2012}
+}
+@inproceedings{tsai2005using,
+  title={Using maximum entropy to extract biomedical named entities without dictionaries},
+  author={Tsai, Tzong-Han and Wu, Chia-Wei and Hsu, Wen-Lian},
+  booktitle={Second International Joint Conference on Natural Language Processing},
+  pages={268--273},
+  year={2005}
+}
+@article{zhou2004recognizing,
+  title={Recognizing names in biomedical texts: a machine learning approach},
+  author={Zhou, Guodong and Zhang, Jie and Su, Jian and Shen, Dan and Tan, Chewlim},
+  journal={Bioinformatics},
+  volume={20},
+  number={7},
+  pages={1178--1190},
+  year={2004},
+  publisher={Oxford Univ Press}
+}
+@article{grego2013enhancement,
+  title={Enhancement of chemical entity identification in text using semantic similarity validation},
+  author={Grego, Tiago and Couto, Francisco M},
+  journal={PloS one},
+  volume={8},
+  number={5},
+  pages={e62984},
+  year={2013},
+  publisher={Public Library of Science}
+}
+@article{ashburner2000gene,
+  title={Gene Ontology: tool for the unification of biology},
+  author={Ashburner, Michael and Ball, Catherine A and Blake, Judith A and Botstein, David and Butler, Heather and Cherry, J Michael and Davis, Allan P and Dolinski, Kara and Dwight, Selina S and Eppig, Janan T and others},
+  journal={Nature genetics},
+  volume={25},
+  number={1},
+  pages={25--29},
+  year={2000},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{zhang2004focused,
+  title={Focused named entity recognition using machine learning},
+  author={Zhang, Li and Pan, Yue and Zhang, Tong},
+  booktitle={Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval},
+  pages={281--288},
+  year={2004},
+  organization={ACM}
+}
+@book{jurafsky2000speech,
+  title={Speech \& language processing},
+  author={Jurafsky, Dan},
+  year={2000},
+  publisher={Pearson Education India}
+}
+@phdthesis{lamurias2014identifying,
+  title={Identifying interactions between chemical entities in text},
+  author={Lam{\'u}rias, Andr{\'e} Francisco Martins},
+  year={2014}
+}
+@book{mohri2012foundations,
+  title={Foundations of machine learning},
+  author={Mohri, Mehryar and Rostamizadeh, Afshin and Talwalkar, Ameet},
+  year={2012},
+  publisher={MIT press}
+}
